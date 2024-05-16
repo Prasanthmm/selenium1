@@ -1,0 +1,16 @@
+//body/div[1]/div[5]/div[2]/form[1]/div[1]/div[1]/div[3]/button[1]/span[2]
+
+Gitup
+1. Git (Version Control System/Source Code maintances)
+2. GitHub (
+
+
+Syntax for Xpath
+----------------
+
+1. //tagname[text()='textname']
+2. //tagname[@id='IdName'] 
+3. (//tagname[contains(@attributename, 'attributevalue')])[index value]
+
+
+* To check git version (git --version)
